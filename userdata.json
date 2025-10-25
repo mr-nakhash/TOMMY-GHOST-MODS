@@ -1,0 +1,26 @@
+[
+    {
+        "device_id": "0c609a45cd812173",
+        "key": "TommyTest",
+        "expirydate": "19-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "574b3a663653c73c",
+        "key": "TommyTest2",
+        "expirydate": "24-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "Test123",
+        "expirydate": "19-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "DnsWeekKEY",
+        "key": "test",
+        "expirydate": "24-08-2025",
+        "Allowoffline": false
+    }
+]
